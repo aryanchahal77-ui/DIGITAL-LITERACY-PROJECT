@@ -64,7 +64,7 @@ The objective of this project is to develop essential digital skills such as onl
 
 - 🌐 GitHub Profile: https://github.com/aryanchahal77-ui  
 - 💼 LinkedIn Profile: https://linkedin.com/in/aryan-chahal-580b453bb
-- 📝 Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSeDJycg9beki5gY5KjAtj8TCA9rT12NJbqe9sPCc7nbDymxJQ/viewform?usp=preview)
+- 📝 Google Form: https://docs.google.com/forms/d/e/1FAIpQLSe1c9ueYdO815DzSe4zUUdAtMsBw0WnrNZ26k-cD1vOqcjTpw/viewform?usp=header
 ---
 
 ## 🎯 Learning Outcomes
